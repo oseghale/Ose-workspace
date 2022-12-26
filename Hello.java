@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Hello{
+    //test git push
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Please input a number: ");
